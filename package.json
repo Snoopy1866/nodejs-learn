@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "nodejs learn code",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snoopy1866/nodejs-learn.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learn",
+    "demo"
+  ],
+  "author": "snoopy1866",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snoopy1866/nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/Snoopy1866/nodejs-learn#readme"
+}
